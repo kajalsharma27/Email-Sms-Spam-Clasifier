@@ -5,6 +5,8 @@ Email Spam Classifier is a project which is used to classify whether the mail or
 
 Accuracy is 97.59% and Precison : 1.00
 
+This Project is End to end project with Deployment , Deployment is done on Herkouu . Herokuu is a Cloud Platform where we can host our web application ..
+
 Demo URL : https://spam-unspam.herokuapp.com/
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/114328560/192131387-e86d71a4-28d7-4a30-8edc-ef82dfbb7515.png)
